@@ -2,7 +2,7 @@ let g:fuf_maxMenuWidth = 150
 " open files in tabs by default
 let g:fuf_keyOpenTabpage = '<CR>'
 
-map <leader>ff :call ProjectFuzzyFind()<CR>
+map f :call ProjectFuzzyFind()<CR>
 map <leader>fb :FufBuffer<CR>
 map <leader>fq :FufQuickfix<CR>
 map <leader>fl :FufLine<CR>
