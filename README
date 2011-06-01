@@ -1,0 +1,1 @@
+Simple vim plugin to extend the FuzzyFinder plugin as described here: http://efiquest.org/2010-09-24/49/ with modifications made by https://github.com/alexgorbatchev.  Didn't want to fork one single file so have created own repo.
